@@ -1,0 +1,4 @@
+#Fri Mar 29 08:58:51 EET 2019
+base.0=/home/daniel/PracticalTest01Var04/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
